@@ -1,0 +1,21 @@
+{
+	"Branches": {
+		"master": {
+			"Version": "1.1.1",
+			"ParentSha": "abc"
+		},
+		"dev": {
+			"Version": "1.1.2",
+			"ParentSha": "f84d60b02980cbedde5441938fb19daf684d2aa7"
+		},
+		"develop-make-1": {
+			"Version": "2.0.0",
+			"ParentSha": "fa020ac7801acd3cee4c84ac673123bfa1f0675b"
+		},
+		"develop-make": {
+			"Version": "3.0.0",
+			"ParentSha": "e56631d"
+		}
+
+	}
+}
